@@ -22,7 +22,7 @@
     https://docs.google.com/spreadsheets/d/11Ju8Cepq54KFJ_bBlNUQ57J4WX9iIrtsDhlxB62TdAs/edit?usp=sharing
 
 
-06/18/2022
+06/15/2022
 
 經過一個晚上的思考, 目前想到的方向大概是有以下項目需要完成 :
 
