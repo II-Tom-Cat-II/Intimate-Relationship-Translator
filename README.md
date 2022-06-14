@@ -18,3 +18,5 @@
 討論方式 :
     
     - 還在想, 希望大家能提供意見, 可以用像是google meet, zoom等的平台來試試看.
+    - 我新增了一個Google報表, 請有興趣討論的人去填一下你們有空的時間, 以方便安排.
+    https://docs.google.com/spreadsheets/d/11Ju8Cepq54KFJ_bBlNUQ57J4WX9iIrtsDhlxB62TdAs/edit?usp=sharing
